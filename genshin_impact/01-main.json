@@ -41,7 +41,7 @@
       "id": "Kachina"
     },
     {
-      "key": "Emilie",
+      "key": "Ineffa",
       "level": 90,
       "ascension": 6,
       "talent": {
@@ -50,6 +50,18 @@
         "burst": 9
       },
       "constellation": 0,
+      "id": "Ineffa"
+    },
+    {
+      "key": "Emilie",
+      "level": 90,
+      "ascension": 6,
+      "talent": {
+        "auto": 1,
+        "skill": 10,
+        "burst": 10
+      },
+      "constellation": 1,
       "id": "Emilie"
     },
     {
@@ -301,7 +313,7 @@
         "skill": 8,
         "burst": 8
       },
-      "constellation": 0,
+      "constellation": 6,
       "id": "Candace"
     },
     {
@@ -1144,24 +1156,6 @@
       "id": "weapon_86"
     },
     {
-      "key": "SkywardSpine",
-      "level": 90,
-      "ascension": 6,
-      "refinement": 1,
-      "location": "Iansan",
-      "lock": false,
-      "id": "weapon_137"
-    },
-    {
-      "key": "SacrificialBow",
-      "level": 80,
-      "ascension": 5,
-      "refinement": 1,
-      "location": "Diona",
-      "lock": false,
-      "id": "weapon_12"
-    },
-    {
       "key": "FleuveCendreFerryman",
       "level": 90,
       "ascension": 6,
@@ -1169,6 +1163,15 @@
       "location": "",
       "lock": false,
       "id": "weapon_111"
+    },
+    {
+      "key": "SkywardSpine",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "Iansan",
+      "lock": false,
+      "id": "weapon_137"
     },
     {
       "key": "AThousandFloatingDreams",
@@ -1270,6 +1273,15 @@
       "id": "weapon_61"
     },
     {
+      "key": "AquilaFavonia",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "",
+      "lock": false,
+      "id": "weapon_150"
+    },
+    {
       "key": "LithicBlade",
       "level": 90,
       "ascension": 6,
@@ -1351,15 +1363,6 @@
       "id": "weapon_29"
     },
     {
-      "key": "BeginnersProtector",
-      "level": 1,
-      "ascension": 0,
-      "refinement": 1,
-      "location": "",
-      "lock": false,
-      "id": "weapon_148"
-    },
-    {
       "key": "CinnabarSpindle",
       "level": 90,
       "ascension": 6,
@@ -1367,15 +1370,6 @@
       "location": "Albedo",
       "lock": false,
       "id": "weapon_17"
-    },
-    {
-      "key": "Whiteblind",
-      "level": 90,
-      "ascension": 6,
-      "refinement": 5,
-      "location": "",
-      "lock": false,
-      "id": "weapon_99"
     },
     {
       "key": "StarcallersWatch",
@@ -1472,7 +1466,7 @@
       "level": 90,
       "ascension": 6,
       "refinement": 5,
-      "location": "",
+      "location": "Diona",
       "lock": false,
       "id": "weapon_107"
     },
@@ -1511,6 +1505,24 @@
       "location": "Xianyun",
       "lock": true,
       "id": "weapon_1"
+    },
+    {
+      "key": "FracturedHalo",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "Ineffa",
+      "lock": false,
+      "id": "weapon_156"
+    },
+    {
+      "key": "RingOfYaxche",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "",
+      "lock": false,
+      "id": "weapon_151"
     },
     {
       "key": "DragonsBane",
@@ -1601,6 +1613,15 @@
       "location": "",
       "lock": false,
       "id": "weapon_141"
+    },
+    {
+      "key": "SkywardHarp",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 1,
+      "location": "",
+      "lock": false,
+      "id": "weapon_152"
     },
     {
       "key": "BlackTassel",
@@ -1720,6 +1741,15 @@
       "id": "weapon_129"
     },
     {
+      "key": "SequenceOfSolitude",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 5,
+      "location": "",
+      "lock": false,
+      "id": "weapon_154"
+    },
+    {
       "key": "BalladOfTheBoundlessBlue",
       "level": 1,
       "ascension": 0,
@@ -1772,15 +1802,6 @@
       "location": "",
       "lock": false,
       "id": "weapon_122"
-    },
-    {
-      "key": "DullBlade",
-      "level": 1,
-      "ascension": 0,
-      "refinement": 1,
-      "location": "",
-      "lock": false,
-      "id": "weapon_147"
     },
     {
       "key": "ToukabouShigure",
@@ -1837,15 +1858,6 @@
       "id": "weapon_112"
     },
     {
-      "key": "WanderingEvenstar",
-      "level": 90,
-      "ascension": 6,
-      "refinement": 5,
-      "location": "Ifa",
-      "lock": false,
-      "id": "weapon_142"
-    },
-    {
       "key": "MouunsMoon",
       "level": 90,
       "ascension": 6,
@@ -1853,6 +1865,15 @@
       "location": "",
       "lock": false,
       "id": "weapon_0"
+    },
+    {
+      "key": "WanderingEvenstar",
+      "level": 90,
+      "ascension": 6,
+      "refinement": 5,
+      "location": "Ifa",
+      "lock": false,
+      "id": "weapon_142"
     },
     {
       "key": "StaffOfHoma",
@@ -2670,7 +2691,7 @@
           "value": 9.7
         }
       ],
-      "location": "Arlecchino",
+      "location": "Keqing",
       "lock": false,
       "id": "artifact_194"
     },
@@ -2955,6 +2976,34 @@
       "id": "artifact_388"
     },
     {
+      "setKey": "GoldenTroupe",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "def",
+          "value": 23
+        },
+        {
+          "key": "critRate_",
+          "value": 10.9
+        },
+        {
+          "key": "enerRech_",
+          "value": 17.5
+        },
+        {
+          "key": "hp_",
+          "value": 5.8
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_973"
+    },
+    {
       "setKey": "FragmentOfHarmonicWhimsy",
       "rarity": 5,
       "level": 20,
@@ -2963,11 +3012,11 @@
       "substats": [
         {
           "key": "critRate_",
-          "value": 6.6
+          "value": 8.6
         },
         {
           "key": "critDMG_",
-          "value": 15.5
+          "value": 21.8
         },
         {
           "key": "atk",
@@ -2975,10 +3024,10 @@
         },
         {
           "key": "def_",
-          "value": 19.7
+          "value": 7.3
         }
       ],
-      "location": "",
+      "location": "Arlecchino",
       "lock": false,
       "id": "artifact_749"
     },
@@ -3146,7 +3195,7 @@
           "value": 14
         }
       ],
-      "location": "",
+      "location": "Yelan",
       "lock": false,
       "id": "artifact_2"
     },
@@ -3569,6 +3618,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_424"
+    },
+    {
+      "setKey": "GladiatorsFinale",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "hp_",
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 13.2
+        },
+        {
+          "key": "critRate_",
+          "value": 7.4
+        },
+        {
+          "key": "enerRech_",
+          "value": 11.7
+        },
+        {
+          "key": "def_",
+          "value": 10.9
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_967"
     },
     {
       "setKey": "ViridescentVenerer",
@@ -4019,6 +4096,34 @@
       "id": "artifact_113"
     },
     {
+      "setKey": "GladiatorsFinale",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 21
+        },
+        {
+          "key": "critRate_",
+          "value": 6.6
+        },
+        {
+          "key": "def",
+          "value": 42
+        },
+        {
+          "key": "enerRech_",
+          "value": 9.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_976"
+    },
+    {
       "setKey": "DesertPavilionChronicle",
       "rarity": 5,
       "level": 20,
@@ -4391,19 +4496,19 @@
       "substats": [
         {
           "key": "enerRech_",
-          "value": 11
+          "value": 4.5
         },
         {
           "key": "eleMas",
-          "value": 61
+          "value": 44
         },
         {
           "key": "critDMG_",
-          "value": 5.4
+          "value": 26.4
         },
         {
           "key": "critRate_",
-          "value": 6.6
+          "value": 3.9
         }
       ],
       "location": "",
@@ -5195,6 +5300,34 @@
       "id": "artifact_15"
     },
     {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "critRate_",
+          "value": 12.8
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "def_",
+          "value": 11.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_970"
+    },
+    {
       "setKey": "ArchaicPetra",
       "rarity": 5,
       "level": 20,
@@ -5386,7 +5519,7 @@
           "value": 9.9
         }
       ],
-      "location": "Yelan",
+      "location": "",
       "lock": false,
       "id": "artifact_398"
     },
@@ -5722,7 +5855,7 @@
           "value": 13.2
         }
       ],
-      "location": "Arlecchino",
+      "location": "",
       "lock": false,
       "id": "artifact_732"
     },
@@ -5750,7 +5883,7 @@
           "value": 32
         }
       ],
-      "location": "",
+      "location": "Ineffa",
       "lock": false,
       "id": "artifact_408"
     },
@@ -5809,6 +5942,34 @@
       "location": "Noelle",
       "lock": false,
       "id": "artifact_122"
+    },
+    {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "critRate_",
+      "substats": [
+        {
+          "key": "def_",
+          "value": 14.6
+        },
+        {
+          "key": "critDMG_",
+          "value": 21
+        },
+        {
+          "key": "atk_",
+          "value": 9.3
+        },
+        {
+          "key": "eleMas",
+          "value": 16
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_979"
     },
     {
       "setKey": "TenacityOfTheMillelith",
@@ -6369,6 +6530,34 @@
       "location": "YunJin",
       "lock": false,
       "id": "artifact_488"
+    },
+    {
+      "setKey": "OceanHuedClam",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "heal_",
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 16.8
+        },
+        {
+          "key": "hp_",
+          "value": 10.5
+        },
+        {
+          "key": "hp",
+          "value": 209
+        },
+        {
+          "key": "critRate_",
+          "value": 7.4
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_969"
     },
     {
       "setKey": "GoldenTroupe",
@@ -7071,6 +7260,34 @@
       "id": "artifact_334"
     },
     {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "plume",
+      "mainStatKey": "atk",
+      "substats": [
+        {
+          "key": "hp",
+          "value": 209
+        },
+        {
+          "key": "hp_",
+          "value": 14.6
+        },
+        {
+          "key": "enerRech_",
+          "value": 13
+        },
+        {
+          "key": "critDMG_",
+          "value": 21
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_974"
+    },
+    {
       "setKey": "GildedDreams",
       "rarity": 5,
       "level": 20,
@@ -7265,6 +7482,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_326"
+    },
+    {
+      "setKey": "ObsidianCodex",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "plume",
+      "mainStatKey": "atk",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 10.5
+        },
+        {
+          "key": "critDMG_",
+          "value": 12.4
+        },
+        {
+          "key": "hp",
+          "value": 478
+        },
+        {
+          "key": "hp_",
+          "value": 8.7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_984"
     },
     {
       "setKey": "LongNightsOath",
@@ -9171,6 +9416,34 @@
       "id": "artifact_227"
     },
     {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "critRate_",
+      "substats": [
+        {
+          "key": "def_",
+          "value": 14.6
+        },
+        {
+          "key": "critDMG_",
+          "value": 21.8
+        },
+        {
+          "key": "atk_",
+          "value": 9.3
+        },
+        {
+          "key": "eleMas",
+          "value": 16
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_986"
+    },
+    {
       "setKey": "ScrollOfTheHeroOfCinderCity",
       "rarity": 5,
       "level": 20,
@@ -9754,7 +10027,7 @@
           "value": 8.9
         }
       ],
-      "location": "",
+      "location": "Mavuika",
       "lock": false,
       "id": "artifact_792"
     },
@@ -10121,6 +10394,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_463"
+    },
+    {
+      "setKey": "GoldenTroupe",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "enerRech_",
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 30.3
+        },
+        {
+          "key": "def_",
+          "value": 5.1
+        },
+        {
+          "key": "atk_",
+          "value": 15.2
+        },
+        {
+          "key": "hp",
+          "value": 209
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_994"
     },
     {
       "setKey": "MarechausseeHunter",
@@ -11350,7 +11651,7 @@
           "value": 16.2
         }
       ],
-      "location": "Arlecchino",
+      "location": "",
       "lock": false,
       "id": "artifact_734"
     },
@@ -11434,7 +11735,7 @@
           "value": 23
         }
       ],
-      "location": "",
+      "location": "Ineffa",
       "lock": false,
       "id": "artifact_317"
     },
@@ -11549,6 +11850,34 @@
       "location": "Barbara",
       "lock": false,
       "id": "artifact_149"
+    },
+    {
+      "setKey": "MarechausseeHunter",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "plume",
+      "mainStatKey": "atk",
+      "substats": [
+        {
+          "key": "hp",
+          "value": 478
+        },
+        {
+          "key": "enerRech_",
+          "value": 24.6
+        },
+        {
+          "key": "def_",
+          "value": 5.8
+        },
+        {
+          "key": "critRate_",
+          "value": 5.4
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_972"
     },
     {
       "setKey": "GoldenTroupe",
@@ -11717,34 +12046,6 @@
       "location": "",
       "lock": false,
       "id": "artifact_740"
-    },
-    {
-      "setKey": "GildedDreams",
-      "rarity": 5,
-      "level": 20,
-      "slotKey": "goblet",
-      "mainStatKey": "dendro_dmg_",
-      "substats": [
-        {
-          "key": "hp",
-          "value": 299
-        },
-        {
-          "key": "critDMG_",
-          "value": 13.2
-        },
-        {
-          "key": "def_",
-          "value": 24.1
-        },
-        {
-          "key": "critRate_",
-          "value": 3.1
-        }
-      ],
-      "location": "",
-      "lock": false,
-      "id": "artifact_389"
     },
     {
       "setKey": "ScrollOfTheHeroOfCinderCity",
@@ -13282,7 +13583,7 @@
           "value": 5.3
         }
       ],
-      "location": "Xingqiu",
+      "location": "",
       "lock": false,
       "id": "artifact_394"
     },
@@ -13341,6 +13642,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_503"
+    },
+    {
+      "setKey": "ObsidianCodex",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "atk_",
+      "substats": [
+        {
+          "key": "def",
+          "value": 19
+        },
+        {
+          "key": "critRate_",
+          "value": 7
+        },
+        {
+          "key": "critDMG_",
+          "value": 20.2
+        },
+        {
+          "key": "hp",
+          "value": 538
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_983"
     },
     {
       "setKey": "MarechausseeHunter",
@@ -15499,6 +15828,34 @@
       "id": "artifact_577"
     },
     {
+      "setKey": "GildedDreams",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "plume",
+      "mainStatKey": "atk",
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 18.7
+        },
+        {
+          "key": "def",
+          "value": 16
+        },
+        {
+          "key": "critDMG_",
+          "value": 13.2
+        },
+        {
+          "key": "eleMas",
+          "value": 16
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_988"
+    },
+    {
       "setKey": "BlizzardStrayer",
       "rarity": 5,
       "level": 20,
@@ -15522,7 +15879,7 @@
           "value": 16.3
         }
       ],
-      "location": "",
+      "location": "Arlecchino",
       "lock": false,
       "id": "artifact_231"
     },
@@ -16031,6 +16388,34 @@
       "id": "artifact_751"
     },
     {
+      "setKey": "GladiatorsFinale",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "eleMas",
+      "substats": [
+        {
+          "key": "def",
+          "value": 21
+        },
+        {
+          "key": "enerRech_",
+          "value": 9.1
+        },
+        {
+          "key": "critDMG_",
+          "value": 21
+        },
+        {
+          "key": "critRate_",
+          "value": 7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_968"
+    },
+    {
       "setKey": "NymphsDream",
       "rarity": 5,
       "level": 20,
@@ -16390,7 +16775,7 @@
           "value": 11.1
         }
       ],
-      "location": "Keqing",
+      "location": "Arlecchino",
       "lock": false,
       "id": "artifact_741"
     },
@@ -16558,7 +16943,7 @@
           "value": 21
         }
       ],
-      "location": "Mavuika",
+      "location": "",
       "lock": false,
       "id": "artifact_839"
     },
@@ -17146,9 +17531,37 @@
           "value": 21
         }
       ],
-      "location": "",
+      "location": "Ineffa",
       "lock": false,
       "id": "artifact_929"
+    },
+    {
+      "setKey": "GildedDreams",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "eleMas",
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "critDMG_",
+          "value": 34.2
+        },
+        {
+          "key": "def",
+          "value": 16
+        },
+        {
+          "key": "critRate_",
+          "value": 7
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_990"
     },
     {
       "setKey": "NoblesseOblige",
@@ -18238,7 +18651,7 @@
           "value": 299
         }
       ],
-      "location": "",
+      "location": "Yelan",
       "lock": false,
       "id": "artifact_778"
     },
@@ -18294,7 +18707,7 @@
           "value": 7.8
         }
       ],
-      "location": "",
+      "location": "Arlecchino",
       "lock": false,
       "id": "artifact_742"
     },
@@ -18775,6 +19188,34 @@
       "id": "artifact_364"
     },
     {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 7
+        },
+        {
+          "key": "critDMG_",
+          "value": 14
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        },
+        {
+          "key": "def_",
+          "value": 18.2
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_981"
+    },
+    {
       "setKey": "SongOfDaysPast",
       "rarity": 5,
       "level": 20,
@@ -18941,6 +19382,34 @@
       "location": "Tighnari",
       "lock": false,
       "id": "artifact_544"
+    },
+    {
+      "setKey": "GildedDreams",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "eleMas",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "critDMG_",
+          "value": 17.9
+        },
+        {
+          "key": "hp_",
+          "value": 11.1
+        },
+        {
+          "key": "atk",
+          "value": 49
+        }
+      ],
+      "location": "Ineffa",
+      "lock": false,
+      "id": "artifact_991"
     },
     {
       "setKey": "GoldenTroupe",
@@ -19503,6 +19972,34 @@
       "id": "artifact_224"
     },
     {
+      "setKey": "FragmentOfHarmonicWhimsy",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "goblet",
+      "mainStatKey": "hydro_dmg_",
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 8.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 7.8
+        },
+        {
+          "key": "hp_",
+          "value": 17.5
+        },
+        {
+          "key": "eleMas",
+          "value": 42
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_987"
+    },
+    {
       "setKey": "EmblemOfSeveredFate",
       "rarity": 5,
       "level": 20,
@@ -19529,6 +20026,34 @@
       "location": "Mona",
       "lock": false,
       "id": "artifact_361"
+    },
+    {
+      "setKey": "ViridescentVenerer",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "critRate_",
+      "substats": [
+        {
+          "key": "hp_",
+          "value": 9.9
+        },
+        {
+          "key": "eleMas",
+          "value": 40
+        },
+        {
+          "key": "atk",
+          "value": 16
+        },
+        {
+          "key": "critDMG_",
+          "value": 17.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_977"
     },
     {
       "setKey": "DeepwoodMemories",
@@ -19781,6 +20306,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_119"
+    },
+    {
+      "setKey": "FragmentOfHarmonicWhimsy",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "critDMG_",
+          "value": 20.2
+        },
+        {
+          "key": "atk_",
+          "value": 9.9
+        },
+        {
+          "key": "enerRech_",
+          "value": 9.1
+        },
+        {
+          "key": "atk",
+          "value": 18
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_978"
     },
     {
       "setKey": "GildedDreams",
@@ -20259,6 +20812,62 @@
       "id": "artifact_365"
     },
     {
+      "setKey": "ObsidianCodex",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "goblet",
+      "mainStatKey": "pyro_dmg_",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "critDMG_",
+          "value": 19.4
+        },
+        {
+          "key": "def",
+          "value": 39
+        },
+        {
+          "key": "atk",
+          "value": 35
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_992"
+    },
+    {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "eleMas",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 6.6
+        },
+        {
+          "key": "def_",
+          "value": 6.6
+        },
+        {
+          "key": "critDMG_",
+          "value": 21.8
+        },
+        {
+          "key": "hp",
+          "value": 538
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_985"
+    },
+    {
       "setKey": "Thundersoother",
       "rarity": 5,
       "level": 20,
@@ -20483,34 +21092,6 @@
       "id": "artifact_288"
     },
     {
-      "setKey": "GladiatorsFinale",
-      "rarity": 5,
-      "level": 16,
-      "slotKey": "sands",
-      "mainStatKey": "atk_",
-      "substats": [
-        {
-          "key": "critRate_",
-          "value": 6.2
-        },
-        {
-          "key": "def",
-          "value": 53
-        },
-        {
-          "key": "critDMG_",
-          "value": 7.8
-        },
-        {
-          "key": "enerRech_",
-          "value": 5.2
-        }
-      ],
-      "location": "ShikanoinHeizou",
-      "lock": false,
-      "id": "artifact_717"
-    },
-    {
       "setKey": "ObsidianCodex",
       "rarity": 5,
       "level": 20,
@@ -20590,7 +21171,7 @@
           "value": 4.7
         }
       ],
-      "location": "Fischl",
+      "location": "",
       "lock": false,
       "id": "artifact_693"
     },
@@ -21211,34 +21792,6 @@
       "id": "artifact_300"
     },
     {
-      "setKey": "GildedDreams",
-      "rarity": 5,
-      "level": 20,
-      "slotKey": "plume",
-      "mainStatKey": "atk",
-      "substats": [
-        {
-          "key": "hp",
-          "value": 478
-        },
-        {
-          "key": "eleMas",
-          "value": 54
-        },
-        {
-          "key": "enerRech_",
-          "value": 11
-        },
-        {
-          "key": "hp_",
-          "value": 11.1
-        }
-      ],
-      "location": "",
-      "lock": false,
-      "id": "artifact_390"
-    },
-    {
       "setKey": "FragmentOfHarmonicWhimsy",
       "rarity": 5,
       "level": 20,
@@ -21547,6 +22100,34 @@
       "id": "artifact_636"
     },
     {
+      "setKey": "UnfinishedReverie",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 2.7
+        },
+        {
+          "key": "def_",
+          "value": 19.7
+        },
+        {
+          "key": "critDMG_",
+          "value": 14
+        },
+        {
+          "key": "atk_",
+          "value": 11.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_980"
+    },
+    {
       "setKey": "DeepwoodMemories",
       "rarity": 5,
       "level": 20,
@@ -21710,7 +22291,7 @@
           "value": 16
         }
       ],
-      "location": "Arlecchino",
+      "location": "",
       "lock": false,
       "id": "artifact_750"
     },
@@ -21766,7 +22347,7 @@
           "value": 19
         }
       ],
-      "location": "",
+      "location": "Fischl",
       "lock": false,
       "id": "artifact_609"
     },
@@ -22275,6 +22856,34 @@
       "id": "artifact_462"
     },
     {
+      "setKey": "MarechausseeHunter",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "circlet",
+      "mainStatKey": "critDMG_",
+      "substats": [
+        {
+          "key": "def",
+          "value": 39
+        },
+        {
+          "key": "critRate_",
+          "value": 3.9
+        },
+        {
+          "key": "def_",
+          "value": 7.3
+        },
+        {
+          "key": "eleMas",
+          "value": 86
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_971"
+    },
+    {
       "setKey": "DeepwoodMemories",
       "rarity": 5,
       "level": 20,
@@ -22550,7 +23159,7 @@
           "value": 21.8
         }
       ],
-      "location": "Yelan",
+      "location": "",
       "lock": false,
       "id": "artifact_444"
     },
@@ -23082,7 +23691,7 @@
           "value": 5.8
         }
       ],
-      "location": "",
+      "location": "Ineffa",
       "lock": false,
       "id": "artifact_308"
     },
@@ -24235,6 +24844,34 @@
       "id": "artifact_111"
     },
     {
+      "setKey": "GildedDreams",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "sands",
+      "mainStatKey": "atk_",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 6.2
+        },
+        {
+          "key": "eleMas",
+          "value": 21
+        },
+        {
+          "key": "def",
+          "value": 56
+        },
+        {
+          "key": "def_",
+          "value": 13.9
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_989"
+    },
+    {
       "setKey": "UnfinishedReverie",
       "rarity": 5,
       "level": 20,
@@ -24261,6 +24898,34 @@
       "location": "",
       "lock": false,
       "id": "artifact_761"
+    },
+    {
+      "setKey": "ObsidianCodex",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "goblet",
+      "mainStatKey": "cryo_dmg_",
+      "substats": [
+        {
+          "key": "atk_",
+          "value": 15.2
+        },
+        {
+          "key": "critDMG_",
+          "value": 13.2
+        },
+        {
+          "key": "def",
+          "value": 42
+        },
+        {
+          "key": "hp_",
+          "value": 9.9
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_982"
     },
     {
       "setKey": "FlowerOfParadiseLost",
@@ -24711,6 +25376,34 @@
       "id": "artifact_667"
     },
     {
+      "setKey": "FragmentOfHarmonicWhimsy",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "flower",
+      "mainStatKey": "hp",
+      "substats": [
+        {
+          "key": "enerRech_",
+          "value": 14.9
+        },
+        {
+          "key": "atk_",
+          "value": 14
+        },
+        {
+          "key": "critDMG_",
+          "value": 14
+        },
+        {
+          "key": "hp_",
+          "value": 4.1
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_975"
+    },
+    {
       "setKey": "BlizzardStrayer",
       "rarity": 5,
       "level": 20,
@@ -24991,6 +25684,34 @@
       "id": "artifact_724"
     },
     {
+      "setKey": "FragmentOfHarmonicWhimsy",
+      "rarity": 5,
+      "level": 20,
+      "slotKey": "goblet",
+      "mainStatKey": "pyro_dmg_",
+      "substats": [
+        {
+          "key": "critRate_",
+          "value": 3.5
+        },
+        {
+          "key": "critDMG_",
+          "value": 19.4
+        },
+        {
+          "key": "def_",
+          "value": 18.2
+        },
+        {
+          "key": "def",
+          "value": 16
+        }
+      ],
+      "location": "",
+      "lock": false,
+      "id": "artifact_993"
+    },
+    {
       "setKey": "GoldenTroupe",
       "rarity": 5,
       "level": 20,
@@ -25098,7 +25819,7 @@
           "value": 19
         }
       ],
-      "location": "",
+      "location": "Mavuika",
       "lock": false,
       "id": "artifact_827"
     },
@@ -25602,7 +26323,7 @@
           "value": 5.8
         }
       ],
-      "location": "",
+      "location": "Xingqiu",
       "lock": false,
       "id": "artifact_491"
     },
@@ -26470,7 +27191,7 @@
           "value": 15.5
         }
       ],
-      "location": "Mavuika",
+      "location": "",
       "lock": false,
       "id": "artifact_819"
     },
@@ -28377,14 +29098,16 @@
           2
         ],
         "EchoesOfAnOffering": [
-          4
+          4,
+          2
         ],
         "EmblemOfSeveredFate": [
           4,
           2
         ],
         "GladiatorsFinale": [
-          4
+          4,
+          2
         ],
         "HeartOfDepth": [
           4,
@@ -28519,17 +29242,51 @@
           4
         ],
         "ShimenawasReminiscence": [
-          4
+          4,
+          2
         ],
         "SongOfDaysPast": [
           2,
           4
         ],
         "ViridescentVenerer": [
-          4
+          2
         ],
         "DesertPavilionChronicle": [
+          4,
+          2
+        ],
+        "FinaleOfTheDeepGalleries": [
+          2,
           4
+        ],
+        "FragmentOfHarmonicWhimsy": [
+          2,
+          4
+        ],
+        "GoldenTroupe": [
+          2,
+          4
+        ],
+        "LongNightsOath": [
+          2,
+          4
+        ],
+        "ObsidianCodex": [
+          2,
+          4
+        ],
+        "ScrollOfTheHeroOfCinderCity": [
+          2,
+          4
+        ],
+        "UnfinishedReverie": [
+          2,
+          4
+        ],
+        "rainbow": [
+          4,
+          2
         ]
       },
       "artExclusion": [],
@@ -28538,7 +29295,7 @@
         "[\"basic\",\"enerRech_\"]": [
           {
             "value": 140,
-            "disabled": false
+            "disabled": true
           }
         ],
         "[\"basic\",\"critRate_\"]": [
@@ -28609,7 +29366,8 @@
         "Ningguang",
         "Albedo",
         "Traveler",
-        "Jean"
+        "Jean",
+        "Xianyun"
       ],
       "allowPartial": false,
       "maxBuildsToShow": 5,
@@ -28818,7 +29576,7 @@
         "[\"basic\",\"critRate_\"]": [
           {
             "value": 70,
-            "disabled": false
+            "disabled": true
           }
         ],
         "[\"basic\",\"enerRech_\"]": [
@@ -30066,16 +30824,13 @@
       "mainStatKeys": {
         "sands": [
           "enerRech_",
-          "atk_",
-          "eleMas"
+          "atk_"
         ],
         "goblet": [
-          "eleMas",
           "electro_dmg_",
           "atk_"
         ],
         "circlet": [
-          "eleMas",
           "critRate_",
           "critDMG_"
         ]
@@ -31851,7 +32606,7 @@
         "[\"basic\",\"eleMas\"]": [
           {
             "value": 1000,
-            "disabled": true
+            "disabled": false
           }
         ]
       },
@@ -32090,14 +32845,14 @@
         ],
         "[\"basic\",\"eleMas\"]": [
           {
-            "value": 95,
+            "value": 50,
             "disabled": true
           }
         ],
         "[\"basic\",\"critDMG_\"]": [
           {
             "value": 200,
-            "disabled": false
+            "disabled": true
           }
         ]
       },
@@ -34470,9 +35225,6 @@
           2,
           4
         ],
-        "BlizzardStrayer": [
-          2
-        ],
         "BloodstainedChivalry": [
           2,
           4
@@ -34498,14 +35250,16 @@
           4
         ],
         "FlowerOfParadiseLost": [
-          4
+          4,
+          2
         ],
         "GildedDreams": [
           2,
           4
         ],
         "GladiatorsFinale": [
-          4
+          4,
+          2
         ],
         "HeartOfDepth": [
           2,
@@ -34624,7 +35378,8 @@
           2
         ],
         "FinaleOfTheDeepGalleries": [
-          4
+          4,
+          2
         ],
         "FragmentOfHarmonicWhimsy": [
           4,
@@ -34639,7 +35394,8 @@
           2
         ],
         "MarechausseeHunter": [
-          4
+          4,
+          2
         ],
         "ObsidianCodex": [
           2,
@@ -34654,7 +35410,17 @@
           4
         ],
         "UnfinishedReverie": [
-          4
+          4,
+          2
+        ],
+        "ShimenawasReminiscence": [
+          2
+        ],
+        "BlizzardStrayer": [
+          2
+        ],
+        "WanderersTroupe": [
+          2
         ]
       },
       "artExclusion": [],
@@ -34662,7 +35428,7 @@
       "statFilters": {
         "[\"basic\",\"critRate_\"]": [
           {
-            "value": 70,
+            "value": 75,
             "disabled": false
           }
         ],
@@ -34675,7 +35441,8 @@
       },
       "mainStatKeys": {
         "sands": [
-          "atk_"
+          "atk_",
+          "eleMas"
         ],
         "goblet": [
           "cryo_dmg_"
@@ -34692,7 +35459,12 @@
       "mainStatAssumptionLevel": 0,
       "excludedLocations": [
         "Fischl",
-        "Yelan"
+        "Yelan",
+        "Emilie",
+        "Tighnari",
+        "Gaming",
+        "Escoffier",
+        "Yoimiya"
       ],
       "allowPartial": false,
       "maxBuildsToShow": 3,
@@ -34703,227 +35475,6 @@
       "upOptLevelLow": 0,
       "upOptLevelHigh": 19,
       "id": "optConfig_3"
-    },
-    {
-      "artSetExclusion": {
-        "ArchaicPetra": [
-          4,
-          2
-        ],
-        "BlizzardStrayer": [
-          4,
-          2
-        ],
-        "BloodstainedChivalry": [
-          4,
-          2
-        ],
-        "CrimsonWitchOfFlames": [
-          4,
-          2
-        ],
-        "DeepwoodMemories": [
-          4,
-          2
-        ],
-        "DesertPavilionChronicle": [
-          4,
-          2
-        ],
-        "EchoesOfAnOffering": [
-          4,
-          2
-        ],
-        "EmblemOfSeveredFate": [
-          4,
-          2
-        ],
-        "FlowerOfParadiseLost": [
-          4,
-          2
-        ],
-        "GladiatorsFinale": [
-          4
-        ],
-        "HeartOfDepth": [
-          4,
-          2
-        ],
-        "HuskOfOpulentDreams": [
-          4,
-          2
-        ],
-        "Lavawalker": [
-          4,
-          2
-        ],
-        "MaidenBeloved": [
-          4,
-          2
-        ],
-        "NoblesseOblige": [
-          4,
-          2
-        ],
-        "NymphsDream": [
-          4,
-          2
-        ],
-        "OceanHuedClam": [
-          4,
-          2
-        ],
-        "PaleFlame": [
-          4,
-          2
-        ],
-        "RetracingBolide": [
-          4,
-          2
-        ],
-        "ShimenawasReminiscence": [
-          4
-        ],
-        "TenacityOfTheMillelith": [
-          4,
-          2
-        ],
-        "VermillionHereafter": [
-          4,
-          2
-        ],
-        "ViridescentVenerer": [
-          4,
-          2
-        ],
-        "VourukashasGlow": [
-          4,
-          2
-        ],
-        "WanderersTroupe": [
-          4,
-          2
-        ],
-        "Berserker": [
-          4,
-          2
-        ],
-        "BraveHeart": [
-          4,
-          2
-        ],
-        "DefendersWill": [
-          4,
-          2
-        ],
-        "Gambler": [
-          4,
-          2
-        ],
-        "Instructor": [
-          4,
-          2
-        ],
-        "MartialArtist": [
-          4,
-          2
-        ],
-        "ResolutionOfSojourner": [
-          4,
-          2
-        ],
-        "Scholar": [
-          4,
-          2
-        ],
-        "TheExile": [
-          4,
-          2
-        ],
-        "TinyMiracle": [
-          4,
-          2
-        ],
-        "Adventurer": [
-          4,
-          2
-        ],
-        "LuckyDog": [
-          4,
-          2
-        ],
-        "TravelingDoctor": [
-          4,
-          2
-        ],
-        "Thundersoother": [
-          2
-        ],
-        "rainbow": [
-          4,
-          2
-        ],
-        "MarechausseeHunter": [
-          4,
-          2
-        ],
-        "GoldenTroupe": [
-          4,
-          2
-        ],
-        "SongOfDaysPast": [
-          2,
-          4
-        ],
-        "GildedDreams": [
-          4,
-          2
-        ]
-      },
-      "artExclusion": [],
-      "useExcludedArts": false,
-      "statFilters": {
-        "[\"basic\",\"critRate_\"]": [
-          {
-            "value": 75,
-            "disabled": false
-          }
-        ],
-        "[\"basic\",\"enerRech_\"]": [
-          {
-            "value": 110,
-            "disabled": false
-          }
-        ]
-      },
-      "mainStatKeys": {
-        "sands": [
-          "atk_",
-          "eleMas"
-        ],
-        "goblet": [
-          "electro_dmg_"
-        ],
-        "circlet": [
-          "critRate_",
-          "critDMG_"
-        ]
-      },
-      "optimizationTarget": [
-        "skill",
-        "slash"
-      ],
-      "mainStatAssumptionLevel": 0,
-      "excludedLocations": [],
-      "allowPartial": false,
-      "maxBuildsToShow": 3,
-      "compareBuild": true,
-      "levelLow": 0,
-      "levelHigh": 20,
-      "useTeammateBuild": false,
-      "upOptLevelLow": 0,
-      "upOptLevelHigh": 19,
-      "id": "optConfig_132"
     },
     {
       "artSetExclusion": {
@@ -35140,8 +35691,12 @@
       "statFilters": {
         "[\"basic\",\"enerRech_\"]": [
           {
-            "value": 210,
+            "value": 230,
             "disabled": false
+          },
+          {
+            "value": 220,
+            "disabled": true
           }
         ],
         "[\"basic\",\"critRate_\"]": [
@@ -35153,7 +35708,8 @@
       },
       "mainStatKeys": {
         "sands": [
-          "hp_"
+          "hp_",
+          "enerRech_"
         ],
         "goblet": [
           "hydro_dmg_",
@@ -35470,12 +36026,13 @@
       },
       "optimizationTarget": [
         "reaction",
-        "hyperbloom"
+        "lunarcharged"
       ],
       "mainStatAssumptionLevel": 0,
       "excludedLocations": [
         "KaedeharaKazuha",
-        "Baizhu"
+        "Baizhu",
+        "Alhaitham"
       ],
       "allowPartial": false,
       "maxBuildsToShow": 5,
@@ -36551,7 +37108,8 @@
           4
         ],
         "GladiatorsFinale": [
-          4
+          4,
+          2
         ],
         "GoldenTroupe": [
           4,
@@ -36578,13 +37136,16 @@
           4
         ],
         "NighttimeWhispersInTheEchoingWoods": [
-          4
+          4,
+          2
         ],
         "NoblesseOblige": [
-          4
+          4,
+          2
         ],
         "NymphsDream": [
-          4
+          4,
+          2
         ],
         "OceanHuedClam": [
           2,
@@ -36599,7 +37160,8 @@
           4
         ],
         "ShimenawasReminiscence": [
-          4
+          4,
+          2
         ],
         "SongOfDaysPast": [
           2,
@@ -36690,10 +37252,31 @@
           2
         ],
         "FragmentOfHarmonicWhimsy": [
-          4
+          4,
+          2
         ],
         "UnfinishedReverie": [
-          4
+          4,
+          2
+        ],
+        "EmblemOfSeveredFate": [
+          2
+        ],
+        "FinaleOfTheDeepGalleries": [
+          4,
+          2
+        ],
+        "LongNightsOath": [
+          4,
+          2
+        ],
+        "ObsidianCodex": [
+          4,
+          2
+        ],
+        "ScrollOfTheHeroOfCinderCity": [
+          4,
+          2
         ]
       },
       "artExclusion": [],
@@ -36701,13 +37284,19 @@
       "statFilters": {
         "[\"basic\",\"enerRech_\"]": [
           {
-            "value": 200,
+            "value": 195,
             "disabled": false
           }
         ],
         "[\"basic\",\"critRate_\"]": [
           {
-            "value": 60,
+            "value": 65,
+            "disabled": false
+          }
+        ],
+        "[\"basic\",\"atk\"]": [
+          {
+            "value": 1500,
             "disabled": false
           }
         ]
@@ -37276,14 +37865,14 @@
       "statFilters": {
         "[\"basic\",\"hp\"]": [
           {
-            "value": 48000,
-            "disabled": false
+            "value": 50000,
+            "disabled": true
           }
         ],
         "[\"basic\",\"enerRech_\"]": [
           {
             "value": 190,
-            "disabled": true
+            "disabled": false
           }
         ]
       },
@@ -37302,7 +37891,7 @@
       },
       "optimizationTarget": [
         "basic",
-        "enerRech_"
+        "hp"
       ],
       "mainStatAssumptionLevel": 0,
       "excludedLocations": [],
@@ -38106,11 +38695,11 @@
           2
         ],
         "rainbow": [
-          4
-        ],
-        "MarechausseeHunter": [
           4,
           2
+        ],
+        "MarechausseeHunter": [
+          4
         ],
         "GoldenTroupe": [
           4,
@@ -38143,6 +38732,14 @@
         "ObsidianCodex": [
           2,
           4
+        ],
+        "FinaleOfTheDeepGalleries": [
+          4,
+          2
+        ],
+        "LongNightsOath": [
+          4,
+          2
         ]
       },
       "artExclusion": [],
@@ -38166,7 +38763,8 @@
           "atk_"
         ],
         "goblet": [
-          "electro_dmg_"
+          "electro_dmg_",
+          "atk_"
         ],
         "circlet": [
           "critRate_",
@@ -38175,7 +38773,7 @@
       },
       "optimizationTarget": [
         "skill",
-        "slash"
+        "thunderclap"
       ],
       "mainStatAssumptionLevel": 0,
       "excludedLocations": [
@@ -38192,7 +38790,8 @@
         "KamisatoAyaka",
         "Kirara",
         "Arlecchino",
-        "Emilie"
+        "Emilie",
+        "RaidenShogun"
       ],
       "allowPartial": false,
       "maxBuildsToShow": 3,
@@ -39320,13 +39919,24 @@
         "[\"basic\",\"critRate_\"]": [
           {
             "value": 75,
+            "disabled": true
+          }
+        ],
+        "[\"basic\",\"enerRech_\"]": [
+          {
+            "value": 125,
+            "disabled": true
+          },
+          {
+            "value": 250,
             "disabled": false
           }
         ]
       },
       "mainStatKeys": {
         "sands": [
-          "atk_"
+          "atk_",
+          "enerRech_"
         ],
         "goblet": [
           "electro_dmg_"
@@ -39350,7 +39960,12 @@
         "Yoimiya",
         "RaidenShogun",
         "Keqing",
-        "Faruzan"
+        "Faruzan",
+        "Escoffier",
+        "Xiangling",
+        "Citlali",
+        "Emilie",
+        "Albedo"
       ],
       "allowPartial": false,
       "maxBuildsToShow": 5,
@@ -39930,55 +40545,6 @@
       "upOptLevelLow": 0,
       "upOptLevelHigh": 19,
       "id": "optConfig_121"
-    },
-    {
-      "artSetExclusion": {},
-      "artExclusion": [],
-      "useExcludedArts": false,
-      "statFilters": {},
-      "mainStatKeys": {
-        "sands": [
-          "hp_",
-          "def_",
-          "atk_",
-          "eleMas",
-          "enerRech_"
-        ],
-        "goblet": [
-          "hp_",
-          "def_",
-          "atk_",
-          "eleMas",
-          "physical_dmg_",
-          "anemo_dmg_",
-          "geo_dmg_",
-          "electro_dmg_",
-          "hydro_dmg_",
-          "pyro_dmg_",
-          "cryo_dmg_",
-          "dendro_dmg_"
-        ],
-        "circlet": [
-          "hp_",
-          "def_",
-          "atk_",
-          "eleMas",
-          "critRate_",
-          "critDMG_",
-          "heal_"
-        ]
-      },
-      "mainStatAssumptionLevel": 0,
-      "excludedLocations": [],
-      "allowPartial": false,
-      "maxBuildsToShow": 5,
-      "compareBuild": true,
-      "levelLow": 0,
-      "levelHigh": 20,
-      "useTeammateBuild": false,
-      "upOptLevelLow": 0,
-      "upOptLevelHigh": 19,
-      "id": "optConfig_106"
     },
     {
       "artSetExclusion": {
@@ -44028,17 +44594,14 @@
           4
         ],
         "FragmentOfHarmonicWhimsy": [
-          4
+          4,
+          2
         ],
         "GildedDreams": [
           2,
           4
         ],
         "GladiatorsFinale": [
-          4
-        ],
-        "GoldenTroupe": [
-          2,
           4
         ],
         "HeartOfDepth": [
@@ -44062,7 +44625,6 @@
           4
         ],
         "NighttimeWhispersInTheEchoingWoods": [
-          2,
           4
         ],
         "NoblesseOblige": [
@@ -44178,6 +44740,22 @@
         ],
         "DeepwoodMemories": [
           4
+        ],
+        "FinaleOfTheDeepGalleries": [
+          4,
+          2
+        ],
+        "LongNightsOath": [
+          4,
+          2
+        ],
+        "ObsidianCodex": [
+          4,
+          2
+        ],
+        "ScrollOfTheHeroOfCinderCity": [
+          4,
+          2
         ]
       },
       "artExclusion": [],
@@ -44206,13 +44784,12 @@
         ],
         "circlet": [
           "critDMG_",
-          "critRate_",
           "atk_"
         ]
       },
       "optimizationTarget": [
-        "skill",
-        "level2Dmg"
+        "passive1",
+        "dmg"
       ],
       "mainStatAssumptionLevel": 0,
       "excludedLocations": [
@@ -44464,15 +45041,17 @@
       "mainStatKeys": {
         "sands": [
           "enerRech_",
-          "hp_"
+          "atk_"
         ],
         "goblet": [
-          "pyro_dmg_",
-          "hp_"
+          "hp_",
+          "pyro_dmg_"
         ],
         "circlet": [
           "heal_",
-          "critRate_"
+          "critRate_",
+          "hp_",
+          "critDMG_"
         ]
       },
       "optimizationTarget": [
@@ -44494,6 +45073,10 @@
       ],
       "allowPartial": false,
       "maxBuildsToShow": 5,
+      "plotBase": [
+        "burst",
+        "regen"
+      ],
       "compareBuild": true,
       "levelLow": 0,
       "levelHigh": 20,
@@ -45032,6 +45615,275 @@
       "upOptLevelLow": 0,
       "upOptLevelHigh": 20,
       "id": "optConfig_116"
+    },
+    {
+      "artSetExclusion": {
+        "rainbow": [
+          4,
+          2
+        ],
+        "ArchaicPetra": [
+          4,
+          2
+        ],
+        "BlizzardStrayer": [
+          4,
+          2
+        ],
+        "BloodstainedChivalry": [
+          4,
+          2
+        ],
+        "CrimsonWitchOfFlames": [
+          4,
+          2
+        ],
+        "DeepwoodMemories": [
+          4,
+          2
+        ],
+        "DesertPavilionChronicle": [
+          4,
+          2
+        ],
+        "EchoesOfAnOffering": [
+          4,
+          2
+        ],
+        "EmblemOfSeveredFate": [
+          4,
+          2
+        ],
+        "FinaleOfTheDeepGalleries": [
+          4,
+          2
+        ],
+        "FlowerOfParadiseLost": [
+          4,
+          2
+        ],
+        "FragmentOfHarmonicWhimsy": [
+          4,
+          2
+        ],
+        "GildedDreams": [
+          2
+        ],
+        "GladiatorsFinale": [
+          4,
+          2
+        ],
+        "GoldenTroupe": [
+          4,
+          2
+        ],
+        "HeartOfDepth": [
+          4,
+          2
+        ],
+        "HuskOfOpulentDreams": [
+          4,
+          2
+        ],
+        "Lavawalker": [
+          4,
+          2
+        ],
+        "LongNightsOath": [
+          4,
+          2
+        ],
+        "MaidenBeloved": [
+          4,
+          2
+        ],
+        "MarechausseeHunter": [
+          4,
+          2
+        ],
+        "NighttimeWhispersInTheEchoingWoods": [
+          4,
+          2
+        ],
+        "NoblesseOblige": [
+          4,
+          2
+        ],
+        "NymphsDream": [
+          4,
+          2
+        ],
+        "ObsidianCodex": [
+          4,
+          2
+        ],
+        "OceanHuedClam": [
+          4,
+          2
+        ],
+        "PaleFlame": [
+          4,
+          2
+        ],
+        "RetracingBolide": [
+          4,
+          2
+        ],
+        "ScrollOfTheHeroOfCinderCity": [
+          4,
+          2
+        ],
+        "ShimenawasReminiscence": [
+          4,
+          2
+        ],
+        "SongOfDaysPast": [
+          4,
+          2
+        ],
+        "TenacityOfTheMillelith": [
+          4,
+          2
+        ],
+        "ThunderingFury": [
+          4,
+          2
+        ],
+        "Thundersoother": [
+          4,
+          2
+        ],
+        "UnfinishedReverie": [
+          4,
+          2
+        ],
+        "VermillionHereafter": [
+          4,
+          2
+        ],
+        "ViridescentVenerer": [
+          4,
+          2
+        ],
+        "VourukashasGlow": [
+          4,
+          2
+        ],
+        "WanderersTroupe": [
+          4,
+          2
+        ],
+        "Berserker": [
+          4,
+          2
+        ],
+        "BraveHeart": [
+          4,
+          2
+        ],
+        "DefendersWill": [
+          4,
+          2
+        ],
+        "Gambler": [
+          4,
+          2
+        ],
+        "Instructor": [
+          4,
+          2
+        ],
+        "MartialArtist": [
+          4,
+          2
+        ],
+        "ResolutionOfSojourner": [
+          4,
+          2
+        ],
+        "Scholar": [
+          4,
+          2
+        ],
+        "TheExile": [
+          4,
+          2
+        ],
+        "TinyMiracle": [
+          4,
+          2
+        ],
+        "Adventurer": [
+          4,
+          2
+        ],
+        "LuckyDog": [
+          4,
+          2
+        ],
+        "TravelingDoctor": [
+          4,
+          2
+        ]
+      },
+      "artExclusion": [],
+      "useExcludedArts": false,
+      "statFilters": {
+        "[\"basic\",\"critRate_\"]": [
+          {
+            "value": 75,
+            "disabled": true
+          }
+        ],
+        "[\"basic\",\"atk\"]": [
+          {
+            "value": 2000,
+            "disabled": false
+          }
+        ],
+        "[\"basic\",\"enerRech_\"]": [
+          {
+            "value": 150,
+            "disabled": false
+          },
+          {
+            "value": 140,
+            "disabled": false
+          }
+        ]
+      },
+      "mainStatKeys": {
+        "sands": [
+          "atk_",
+          "eleMas"
+        ],
+        "goblet": [
+          "atk_"
+        ],
+        "circlet": [
+          "critRate_",
+          "critDMG_",
+          "atk_"
+        ]
+      },
+      "optimizationTarget": [
+        "reaction",
+        "lunarcharged"
+      ],
+      "mainStatAssumptionLevel": 0,
+      "excludedLocations": [
+        "Alhaitham",
+        "Chasca"
+      ],
+      "allowPartial": false,
+      "maxBuildsToShow": 5,
+      "compareBuild": true,
+      "levelLow": 0,
+      "levelHigh": 20,
+      "useTeammateBuild": false,
+      "upOptLevelLow": 0,
+      "upOptLevelHigh": 19,
+      "id": "optConfig_93"
     },
     {
       "artSetExclusion": {},
@@ -45994,14 +46846,20 @@
       "statFilters": {
         "[\"basic\",\"critRate_\"]": [
           {
-            "value": 99,
+            "value": 90,
             "disabled": false
           }
         ],
         "[\"basic\",\"eleMas\"]": [
           {
             "value": 150,
-            "disabled": false
+            "disabled": true
+          }
+        ],
+        "[\"basic\",\"critDMG_\"]": [
+          {
+            "value": 250,
+            "disabled": true
           }
         ]
       },
@@ -46011,8 +46869,7 @@
           "eleMas"
         ],
         "goblet": [
-          "pyro_dmg_",
-          "eleMas"
+          "pyro_dmg_"
         ],
         "circlet": [
           "critDMG_",
@@ -46024,9 +46881,7 @@
         "skillDmg"
       ],
       "mainStatAssumptionLevel": 0,
-      "excludedLocations": [
-        "Wanderer"
-      ],
+      "excludedLocations": [],
       "allowPartial": false,
       "maxBuildsToShow": 5,
       "compareBuild": true,
@@ -46205,7 +47060,7 @@
       "id": "Yoimiya"
     },
     {
-      "favorite": true,
+      "favorite": false,
       "id": "Yelan"
     },
     {
@@ -46322,17 +47177,17 @@
       "id": "build_7"
     },
     {
-      "name": "Build Name",
+      "name": "Duplicate of Equipped",
       "description": "",
-      "weaponId": "weapon_63",
+      "weaponId": "weapon_23",
       "artifactIds": {
-        "flower": "artifact_123",
-        "plume": "artifact_134",
-        "sands": "artifact_194",
-        "goblet": "artifact_144",
-        "circlet": "artifact_508"
+        "flower": "artifact_606",
+        "plume": "artifact_685",
+        "sands": "artifact_603",
+        "goblet": "artifact_706",
+        "circlet": "artifact_609"
       },
-      "id": "build_1"
+      "id": "build_20"
     },
     {
       "name": "Duplicate of Equipped",
@@ -46385,6 +47240,32 @@
         "circlet": "artifact_42"
       },
       "id": "build_10"
+    },
+    {
+      "name": "Duplicate of Equipped",
+      "description": "",
+      "weaponId": "weapon_78",
+      "artifactIds": {
+        "flower": "artifact_544",
+        "plume": "artifact_130",
+        "sands": "artifact_139",
+        "goblet": "artifact_498",
+        "circlet": "artifact_186"
+      },
+      "id": "build_18"
+    },
+    {
+      "name": "Duplicate of Equipped",
+      "description": "",
+      "weaponId": "weapon_44",
+      "artifactIds": {
+        "flower": "artifact_606",
+        "plume": "artifact_685",
+        "sands": "artifact_603",
+        "goblet": "artifact_706",
+        "circlet": "artifact_693"
+      },
+      "id": "build_19"
     },
     {
       "name": "Build Name",
@@ -46452,6 +47333,19 @@
       "id": "build_11"
     },
     {
+      "name": "Duplicate of Equipped",
+      "description": "",
+      "weaponId": "weapon_150",
+      "artifactIds": {
+        "flower": "artifact_89",
+        "plume": "artifact_416",
+        "sands": "artifact_94",
+        "goblet": "artifact_98",
+        "circlet": "artifact_776"
+      },
+      "id": "build_17"
+    },
+    {
       "name": "Wind DMG",
       "description": "",
       "weaponId": "weapon_91",
@@ -46514,14 +47408,45 @@
         },
         "Bennett": {
           "activeInArea": "activeInArea"
+        },
+        "SkywardBlade": {
+          "SkyPiercingMight": "on"
+        }
+      },
+      "bonusStats": {},
+      "hitMode": "avgHit",
+      "buildIds": [
+        "build_17"
+      ],
+      "buildTcIds": [],
+      "optConfigId": "optConfig_138",
+      "id": "teamchar_97"
+    },
+    {
+      "key": "Ineffa",
+      "name": "Ineffa Loadout",
+      "description": "",
+      "customMultiTargets": [],
+      "conditional": {
+        "GildedDreams": {
+          "overrideOther": "3",
+          "overrideSame": "1",
+          "passive": "on"
+        },
+        "FracturedHalo": {
+          "afterSkillBurst": "on",
+          "afterShield": "on"
+        },
+        "Ineffa": {
+          "a4AfterBurst": "on"
         }
       },
       "bonusStats": {},
       "hitMode": "avgHit",
       "buildIds": [],
       "buildTcIds": [],
-      "optConfigId": "optConfig_138",
-      "id": "teamchar_97"
+      "optConfigId": "optConfig_93",
+      "id": "teamchar_92"
     },
     {
       "key": "Furina",
@@ -46966,7 +47891,8 @@
       "conditional": {
         "ShikanoinHeizou": {
           "declensionStacks": "4",
-          "takeField": "on"
+          "takeField": "on",
+          "skillHit": "on"
         },
         "TheWidsith": {
           "Debut": "interlude"
@@ -46979,6 +47905,10 @@
         "DesertPavilionChronicle": {},
         "ShimenawasReminiscence": {
           "usedEnergy": "used"
+        },
+        "ViridescentVenerer": {
+          "swirlhydro": "hydro",
+          "swirlelectro": "electro"
         }
       },
       "bonusStats": {},
@@ -47033,45 +47963,6 @@
       "buildTcIds": [],
       "optConfigId": "optConfig_88",
       "id": "teamchar_84"
-    },
-    {
-      "key": "Keqing",
-      "name": "Keqing Loadout",
-      "description": "Loadout Description",
-      "customMultiTargets": [],
-      "conditional": {
-        "LionsRoar": {
-          "BaneOfFireAndThunder": "on"
-        },
-        "Keqing": {
-          "afterRecast": "afterRecast",
-          "afterReact": "afterReact",
-          "c6Stack": "4"
-        },
-        "ShimenawasReminiscence": {
-          "usedEnergy": "used"
-        },
-        "Thundersoother": {
-          "state": "on"
-        },
-        "GildedDreams": {
-          "passive": "on"
-        },
-        "NoblesseOblige": {
-          "set4": "on"
-        },
-        "MistsplitterReforged": {
-          "MistsplittersEmblem": "3"
-        }
-      },
-      "bonusStats": {},
-      "infusionAura": "",
-      "hitMode": "critHit",
-      "reaction": "",
-      "buildIds": [],
-      "buildTcIds": [],
-      "optConfigId": "optConfig_132",
-      "id": "teamchar_131"
     },
     {
       "key": "Mona",
@@ -47134,6 +48025,9 @@
         },
         "Baizhu": {
           "a4AfterHeal": "on"
+        },
+        "PrototypeAmber": {
+          "Gliding": "on"
         }
       },
       "bonusStats": {},
@@ -47357,7 +48251,7 @@
           "A1": "on"
         },
         "AmosBow": {
-          "StrongWilled": "3"
+          "StrongWilled": "5"
         },
         "ThunderingPulse": {
           "RuleByThunder": "3"
@@ -47382,9 +48276,7 @@
       "infusionAura": "",
       "hitMode": "critHit",
       "reaction": "melt",
-      "buildIds": [
-        "build_1"
-      ],
+      "buildIds": [],
       "buildTcIds": [],
       "optConfigId": "optConfig_3",
       "id": "teamchar_6"
@@ -47396,7 +48288,7 @@
       "customMultiTargets": [],
       "conditional": {
         "Ifa": {
-          "a1Essentials": "100",
+          "a1Essentials": "200",
           "a4NsBurst": "on",
           "c4AfterBurst": "on"
         },
@@ -47449,23 +48341,6 @@
       "buildTcIds": [],
       "optConfigId": "optConfig_110",
       "id": "teamchar_144"
-    },
-    {
-      "key": "Alhaitham",
-      "name": "Alhaitham Loadout",
-      "description": "Loadout Description",
-      "customMultiTargets": [],
-      "conditional": {
-        "GildedDreams": {
-          "passive": "on"
-        }
-      },
-      "bonusStats": {},
-      "hitMode": "avgHit",
-      "buildIds": [],
-      "buildTcIds": [],
-      "optConfigId": "optConfig_106",
-      "id": "teamchar_139"
     },
     {
       "key": "Mavuika",
@@ -48037,7 +48912,9 @@
       "infusionAura": "",
       "hitMode": "critHit",
       "reaction": "spread",
-      "buildIds": [],
+      "buildIds": [
+        "build_18"
+      ],
       "buildTcIds": [],
       "optConfigId": "optConfig_54",
       "id": "teamchar_138"
@@ -48126,14 +49003,18 @@
       "customMultiTargets": [],
       "conditional": {
         "ViridescentVenerer": {
-          "swirlhydro": "hydro",
-          "swirlpyro": "pyro"
+          "swirlelectro": "electro",
+          "swirlcryo": "cryo",
+          "swirlpyro": "pyro",
+          "swirlhydro": "hydro"
         },
         "Sucrose": {
-          "swirlpyro": "pyro",
           "swirlhydro": "hydro",
           "absorption": "hydro",
-          "skillHit": "hit"
+          "skillHit": "hit",
+          "swirlelectro": "electro",
+          "swirlcryo": "cryo",
+          "swirlpyro": "pyro"
         }
       },
       "bonusStats": {},
@@ -48247,18 +49128,14 @@
           "a1NsFreezeMelt": "on"
         },
         "ScrollOfTheHeroOfCinderCity": {
-          "react_hydro": "hydro",
           "react_pyro": "pyro",
           "nightsoul_hydro": "hydro",
           "nightsoul_pyro": "pyro",
-          "react_electro": "electro",
-          "react_anemo": "anemo",
           "nightsoul_anemo": "anemo",
           "nightsoul_electro": "electro",
-          "react_geo": "geo",
-          "react_dendro": "dendro",
           "nightsoul_geo": "geo",
-          "nightsoul_dendro": "dendro"
+          "nightsoul_dendro": "dendro",
+          "react_hydro": "hydro"
         }
       },
       "bonusStats": {},
@@ -48470,8 +49347,8 @@
       "conditional": {
         "GildedDreams": {
           "passive": "on",
-          "overrideOther": "3",
-          "overrideSame": "0"
+          "overrideOther": "2",
+          "overrideSame": "1"
         },
         "KeyOfKhajNisut": {
           "afterSkill": "3"
@@ -48530,7 +49407,8 @@
       "customMultiTargets": [],
       "conditional": {
         "Candace": {
-          "afterBurst": "on"
+          "afterBurst": "on",
+          "c2AfterSkillHit": "on"
         },
         "NymphsDream": {
           "set4": "3"
@@ -48827,7 +49705,13 @@
         "Emilie": {
           "a4Burning": "on"
         },
-        "StaffOfHoma": {}
+        "StaffOfHoma": {},
+        "LumidouceElegy": {
+          "stacks": "2"
+        },
+        "GoldenTroupe": {
+          "set4": "on"
+        }
       },
       "bonusStats": {},
       "hitMode": "critHit",
@@ -48930,7 +49814,7 @@
         }
       },
       "bonusStats": {},
-      "hitMode": "avgHit",
+      "hitMode": "critHit",
       "buildIds": [],
       "buildTcIds": [],
       "optConfigId": "optConfig_56",
@@ -49080,11 +49964,17 @@
         },
         "MouunsMoon": {
           "WatatsumiWavewalker": "260"
+        },
+        "ElegyForTheEnd": {
+          "ThePartingRefrain": "on"
         }
       },
       "bonusStats": {},
-      "hitMode": "critHit",
-      "buildIds": [],
+      "hitMode": "avgHit",
+      "buildIds": [
+        "build_20",
+        "build_19"
+      ],
       "buildTcIds": [],
       "optConfigId": "optConfig_100",
       "id": "teamchar_90"
@@ -49296,16 +50186,6 @@
       },
       "loadoutData": [
         {
-          "teamCharId": "teamchar_60",
-          "buildType": "equipped",
-          "buildId": "",
-          "buildTcId": "",
-          "compare": true,
-          "compareType": "equipped",
-          "compareBuildId": "",
-          "compareBuildTcId": ""
-        },
-        {
           "teamCharId": "teamchar_32",
           "buildType": "equipped",
           "buildId": "",
@@ -49316,11 +50196,21 @@
           "compareBuildTcId": ""
         },
         {
-          "teamCharId": "teamchar_130",
+          "teamCharId": "teamchar_60",
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
-          "compare": true,
+          "compare": false,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        },
+        {
+          "teamCharId": "teamchar_67",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": false,
           "compareType": "equipped",
           "compareBuildId": "",
           "compareBuildTcId": ""
@@ -49328,7 +50218,7 @@
         {
           "teamCharId": "teamchar_90",
           "buildType": "equipped",
-          "buildId": "",
+          "buildId": "build_19",
           "buildTcId": "",
           "compare": true,
           "compareType": "equipped",
@@ -49336,7 +50226,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1723970478258,
+      "lastEdit": 1754569419109,
       "id": "team_22"
     },
     {
@@ -49665,7 +50555,7 @@
         {
           "teamCharId": "teamchar_6",
           "buildType": "equipped",
-          "buildId": "build_1",
+          "buildId": "",
           "buildTcId": "",
           "compare": true,
           "compareType": "equipped",
@@ -49703,7 +50593,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750164094327,
+      "lastEdit": 1752414103487,
       "id": "team_41"
     },
     {
@@ -49952,7 +50842,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750255523996,
+      "lastEdit": 1753985064571,
       "id": "team_24"
     },
     {
@@ -50285,7 +51175,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1748171208472,
+      "lastEdit": 1751723332926,
       "id": "team_36"
     },
     {
@@ -50413,8 +51303,72 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1747571124284,
+      "lastEdit": 1754216636583,
       "id": "team_72"
+    },
+    {
+      "name": "Team Name 59",
+      "description": "",
+      "enemyOverride": {
+        "enemyLevel": 100,
+        "enemyDefRed_": 0,
+        "enemyDefIgn_": 0,
+        "physical_enemyRes_": 10,
+        "anemo_enemyRes_": 10,
+        "geo_enemyRes_": 10,
+        "electro_enemyRes_": 10,
+        "hydro_enemyRes_": 10,
+        "pyro_enemyRes_": 10,
+        "cryo_enemyRes_": 10,
+        "dendro_enemyRes_": 10
+      },
+      "conditional": {
+        "resonance": {}
+      },
+      "loadoutData": [
+        {
+          "teamCharId": "teamchar_92",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": true,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        },
+        {
+          "teamCharId": "teamchar_144",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": false,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        },
+        {
+          "teamCharId": "teamchar_67",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": false,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        },
+        {
+          "teamCharId": "teamchar_19",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": true,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        }
+      ],
+      "lastEdit": 1754805657715,
+      "id": "team_76"
     },
     {
       "name": "Team Name 25 (duplicated)",
@@ -50457,11 +51411,11 @@
           "compareBuildTcId": ""
         },
         {
-          "teamCharId": "teamchar_130",
+          "teamCharId": "teamchar_128",
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
-          "compare": true,
+          "compare": false,
           "compareType": "equipped",
           "compareBuildId": "",
           "compareBuildTcId": ""
@@ -50469,7 +51423,7 @@
         {
           "teamCharId": "teamchar_90",
           "buildType": "equipped",
-          "buildId": "",
+          "buildId": "build_19",
           "buildTcId": "",
           "compare": true,
           "compareType": "equipped",
@@ -50477,7 +51431,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750433424532,
+      "lastEdit": 1754726338929,
       "id": "team_27"
     },
     {
@@ -50578,7 +51532,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1729585650115,
+      "lastEdit": 1753986311412,
       "id": "team_26"
     },
     {
@@ -50642,7 +51596,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750364010185,
+      "lastEdit": 1751380875954,
       "id": "team_49"
     },
     {
@@ -50839,7 +51793,7 @@
       "id": "team_19"
     },
     {
-      "name": "Team Name 45",
+      "name": "Team Name 58",
       "description": "",
       "enemyOverride": {
         "enemyLevel": 100,
@@ -50859,7 +51813,7 @@
       },
       "loadoutData": [
         {
-          "teamCharId": "teamchar_98",
+          "teamCharId": "teamchar_6",
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
@@ -50872,7 +51826,7 @@
         null,
         null
       ],
-      "lastEdit": 1732257163217,
+      "lastEdit": 1752393131570,
       "id": "team_59"
     },
     {
@@ -50936,7 +51890,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750515589901,
+      "lastEdit": 1752391811063,
       "id": "team_60"
     },
     {
@@ -51320,7 +52274,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750431609548,
+      "lastEdit": 1753104368112,
       "id": "team_74"
     },
     {
@@ -51504,7 +52458,7 @@
       "loadoutData": [
         {
           "teamCharId": "teamchar_67",
-          "buildType": "equipped",
+          "buildType": "real",
           "buildId": "build_7",
           "buildTcId": "",
           "compare": true,
@@ -51516,7 +52470,7 @@
         null,
         null
       ],
-      "lastEdit": 1747256914430,
+      "lastEdit": 1753917491438,
       "id": "team_20"
     },
     {
@@ -51626,15 +52580,15 @@
         {
           "teamCharId": "teamchar_67",
           "buildType": "equipped",
-          "buildId": "",
+          "buildId": "build_7",
           "buildTcId": "",
-          "compare": false,
+          "compare": true,
           "compareType": "equipped",
           "compareBuildId": "",
           "compareBuildTcId": ""
         },
         {
-          "teamCharId": "teamchar_137",
+          "teamCharId": "teamchar_43",
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
@@ -51644,7 +52598,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1750163149695,
+      "lastEdit": 1753917131624,
       "id": "team_50"
     },
     {
@@ -52065,7 +53019,16 @@
           "compareBuildId": "",
           "compareBuildTcId": ""
         },
-        null,
+        {
+          "teamCharId": "teamchar_140",
+          "buildType": "equipped",
+          "buildId": "",
+          "buildTcId": "",
+          "compare": false,
+          "compareType": "equipped",
+          "compareBuildId": "",
+          "compareBuildTcId": ""
+        },
         {
           "teamCharId": "teamchar_22",
           "buildType": "equipped",
@@ -52087,7 +53050,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1717789309198,
+      "lastEdit": 1752393067333,
       "id": "team_8"
     },
     {
@@ -52112,8 +53075,8 @@
       "loadoutData": [
         {
           "teamCharId": "teamchar_138",
-          "buildType": "equipped",
-          "buildId": "",
+          "buildType": "real",
+          "buildId": "build_18",
           "buildTcId": "",
           "compare": true,
           "compareType": "equipped",
@@ -52124,7 +53087,7 @@
         null,
         null
       ],
-      "lastEdit": 1746431424678,
+      "lastEdit": 1751703378133,
       "id": "team_33"
     },
     {
@@ -52158,11 +53121,11 @@
           "compareBuildTcId": ""
         },
         {
-          "teamCharId": "teamchar_132",
+          "teamCharId": "teamchar_137",
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
-          "compare": true,
+          "compare": false,
           "compareType": "equipped",
           "compareBuildId": "",
           "compareBuildTcId": ""
@@ -52188,7 +53151,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1748281680347,
+      "lastEdit": 1753986356732,
       "id": "team_45"
     },
     {
@@ -52244,7 +53207,7 @@
         {
           "teamCharId": "teamchar_97",
           "buildType": "equipped",
-          "buildId": "",
+          "buildId": "build_17",
           "buildTcId": "",
           "compare": true,
           "compareType": "equipped",
@@ -52252,7 +53215,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1747256235358,
+      "lastEdit": 1754057513977,
       "id": "team_66"
     },
     {
@@ -52280,7 +53243,7 @@
           "buildType": "equipped",
           "buildId": "",
           "buildTcId": "",
-          "compare": false,
+          "compare": true,
           "compareType": "equipped",
           "compareBuildId": "",
           "compareBuildTcId": ""
@@ -52316,7 +53279,7 @@
           "compareBuildTcId": ""
         }
       ],
-      "lastEdit": 1749567277580,
+      "lastEdit": 1754805556773,
       "id": "team_7"
     },
     {
@@ -52460,7 +53423,7 @@
   ],
   "dbMeta": {
     "name": "Main",
-    "lastEdit": 1750878303825,
+    "lastEdit": 1754806012063,
     "gender": "F"
   },
   "display_weapon": {
@@ -52468,10 +53431,14 @@
     "sortType": "level",
     "ascending": false,
     "rarity": [
-      4
+      1,
+      2,
+      3,
+      4,
+      5
     ],
     "weaponType": [
-      "claymore"
+      "bow"
     ],
     "locked": [
       "locked",
@@ -52490,23 +53457,12 @@
       "levelLow": 0,
       "levelHigh": 20,
       "slotKeys": [
-        "goblet"
+        "circlet"
       ],
       "mainStatKeys": [
-        "anemo_dmg_",
-        "geo_dmg_",
-        "electro_dmg_",
-        "hydro_dmg_",
-        "pyro_dmg_",
-        "cryo_dmg_",
-        "dendro_dmg_"
+        "eleMas"
       ],
-      "substats": [
-        "atk_",
-        "critRate_",
-        "enerRech_",
-        "critDMG_"
-      ],
+      "substats": [],
       "locations": [],
       "showEquipped": true,
       "showInventory": true,
@@ -52550,16 +53506,18 @@
       "catalyst"
     ],
     "element": [
-      "pyro"
+      "dendro",
+      "electro"
     ],
     "rarity": [
-      5
+      5,
+      4
     ]
   },
   "display_tool": {
     "timeZoneKey": "America",
     "resin": 200,
-    "resinDate": 1664304141969
+    "resinDate": 1751828845201
   },
   "display_team": {
     "ascending": false,
